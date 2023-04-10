@@ -1,0 +1,15 @@
+.Box_item{
+    background-color: rgb(228, 237, 238);
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+.Box_container{
+    margin-top: 1rem;
+}
+
+.Grid_item{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}

@@ -1,0 +1,21 @@
+.Box_option{
+    background-color: rgb(228, 237, 238);
+    border-radius: 1rem; 
+    cursor: pointer;
+}
+
+.Box_margin{
+    margin-top: 2rem;
+}
+
+.Box_option_margin{
+    margin-top: 8.5rem;
+    margin-bottom: 8.5rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .Box_option_margin{
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+    }
+  }

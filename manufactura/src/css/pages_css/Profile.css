@@ -1,0 +1,33 @@
+.Box_profile_info{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background-color: rgb(228, 237, 238);
+    border-radius: 1rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.Avatar_profile{
+    width: 4rem;
+    height: 4rem;
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.Typo_normal{
+    margin-top: 0.5rem;
+    margin-bottom: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.Button_profile{
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
